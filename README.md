@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hey Buddy! 👋
 
-Hey Buddy! 
-I'm a Software Engineer, in China. 
-Focus on java and angular applications. 
+I'm a Software Engineer, in China.  <br />
+Focus on java and angular applications.  <br />
 Interested in NestJs, React, Python and so on.
 
 <!--
