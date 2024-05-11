@@ -1,8 +1,7 @@
 ### Hey Buddy! 👋
 
 I'm a Software Engineer, in China.  <br />
-Focus on java and angular applications.  <br />
-Interested in NestJs, React, Python and so on.
+Focus on java, Angular, and React(NextJs) applications.  <br />
 
 <!--
 **changezzz/changezzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
